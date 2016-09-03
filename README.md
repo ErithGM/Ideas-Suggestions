@@ -1,0 +1,3 @@
+# Ideas-Suggestions
+Make a new file with your suggestion to add to the game.
+It can be areas, quest ideas, mob ideas, system ideas, everything...
